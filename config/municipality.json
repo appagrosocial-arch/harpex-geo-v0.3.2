@@ -1,0 +1,19 @@
+{
+  "id": "parnaiba-pi",
+  "name": "Parnaíba",
+  "uf": "PI",
+  "country": "BR",
+  "ibge_code": "2207702",
+  "center": [-41.7769, -2.9050],
+  "operational_bounds": [-41.98, -3.04, -41.60, -2.73],
+  "default_camera": {
+    "zoom": 13.45,
+    "pitch": 60,
+    "bearing": 25
+  },
+  "micro_camera": {
+    "zoom": 16.15,
+    "pitch": 58,
+    "bearing": 28
+  }
+}
